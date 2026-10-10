@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "PUR-2001",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-06-16",
+    "items": [
+      {
+        "medicineId": "MED-CCF-03",
+        "medicineName": "Sinutab",
+        "batchId": "BAT-00001",
+        "batchNumber": "B00001",
+        "quantity": 137,
+        "expiryDate": "2026-09-15",
+        "manufacturingDate": "2024-10-03",
+        "purchasePrice": 1.78,
+        "sellingPrice": 4.6,
+        "lineTotal": 243.86
+      },
+      {
+        "medicineId": "MED-ALG-01",
+        "medicineName": "Zyrtec",
+        "batchId": "BAT-00002",
+        "batchNumber": "B00002",
+        "quantity": 34,
+        "expiryDate": "2026-09-13",
+        "manufacturingDate": "2024-09-25",
+        "purchasePrice": 1.62,
+        "sellingPrice": 4.3,
+        "lineTotal": 55.08
+      },
+      {
+        "medicineId": "MED-PNR-04",
+        "medicineName": "Naprosyn",
+        "batchId": "BAT-00003",
+        "batchNumber": "B00003",
+        "quantity": 120,
+        "expiryDate": "2026-10-31",
+        "manufacturingDate": "2024-10-25",
+        "purchasePrice": 2.0,
+        "sellingPrice": 5.6,
+        "lineTotal": 240.0
+      }
+    ],
+    "totalValue": 538.94,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2002",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-07-01",
+    "items": [
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "batchId": "BAT-00004",
+        "batchNumber": "B00004",
+        "quantity": 108,
+        "expiryDate": "2028-07-25",
+        "manufacturingDate": "2026-08-07",
+        "purchasePrice": 2.21,
+        "sellingPrice": 6.2,
+        "lineTotal": 238.68
+      },
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "batchId": "BAT-00005",
+        "batchNumber": "B00005",
+        "quantity": 103,
+        "expiryDate": "2027-07-24",
+        "manufacturingDate": "2025-04-05",
+        "purchasePrice": 2.0,
+        "sellingPrice": 5.7,
+        "lineTotal": 206.0
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "medicineName": "Losardex",
+        "batchId": "BAT-00006",
+        "batchNumber": "B00006",
+        "quantity": 101,
+        "expiryDate": "2028-06-02",
+        "manufacturingDate": "2026-05-25",
+        "purchasePrice": 2.5,
+        "sellingPrice": 6.9,
+        "lineTotal": 252.5
+      },
+      {
+        "medicineId": "MED-ABX-03",
+        "medicineName": "Ciprodex",
+        "batchId": "BAT-00007",
+        "batchNumber": "B00007",
+        "quantity": 84,
+        "expiryDate": "2026-09-29",
+        "manufacturingDate": "2025-01-11",
+        "purchasePrice": 3.94,
+        "sellingPrice": 9.9,
+        "lineTotal": 330.96
+      }
+    ],
+    "totalValue": 1028.14,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2003",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-07-30",
+    "items": [
+      {
+        "medicineId": "MED-VIT-05",
+        "medicineName": "OmegaGold",
+        "batchId": "BAT-00008",
+        "batchNumber": "B00008",
+        "quantity": 139,
+        "expiryDate": "2026-10-23",
+        "manufacturingDate": "2025-01-27",
+        "purchasePrice": 5.3,
+        "sellingPrice": 13.9,
+        "lineTotal": 736.7
+      },
+      {
+        "medicineId": "MED-VIT-02",
+        "medicineName": "VitaC Boost",
+        "batchId": "BAT-00009",
+        "batchNumber": "B00009",
+        "quantity": 64,
+        "expiryDate": "2026-09-07",
+        "manufacturingDate": "2025-03-09",
+        "purchasePrice": 3.15,
+        "sellingPrice": 8.4,
+        "lineTotal": 201.6
+      },
+      {
+        "medicineId": "MED-VIT-03",
+        "medicineName": "SunD3",
+        "batchId": "BAT-00010",
+        "batchNumber": "B00010",
+        "quantity": 139,
+        "expiryDate": "2026-10-26",
+        "manufacturingDate": "2024-09-19",
+        "purchasePrice": 3.89,
+        "sellingPrice": 9.8,
+        "lineTotal": 540.71
+      },
+      {
+        "medicineId": "MED-VIT-04",
+        "medicineName": "FerroPlus",
+        "batchId": "BAT-00011",
+        "batchNumber": "B00011",
+        "quantity": 147,
+        "expiryDate": "2027-05-22",
+        "manufacturingDate": "2025-11-15",
+        "purchasePrice": 2.4,
+        "sellingPrice": 6.9,
+        "lineTotal": 352.8
+      }
+    ],
+    "totalValue": 1831.81,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2004",
+    "supplierId": "SUP-05",
+    "supplierName": "PureAir Respiratory Supply",
+    "date": "2026-04-26",
+    "items": [
+      {
+        "medicineId": "MED-RSP-02",
+        "medicineName": "Ventolin",
+        "batchId": "BAT-00012",
+        "batchNumber": "B00012",
+        "quantity": 113,
+        "expiryDate": "2028-01-30",
+        "manufacturingDate": "2026-08-05",
+        "purchasePrice": 6.3,
+        "sellingPrice": 15.9,
+        "lineTotal": 711.9
+      },
+      {
+        "medicineId": "MED-RSP-01",
+        "medicineName": "Singulex",
+        "batchId": "BAT-00013",
+        "batchNumber": "B00013",
+        "quantity": 42,
+        "expiryDate": "2026-06-05",
+        "manufacturingDate": "2024-01-02",
+        "purchasePrice": 3.01,
+        "sellingPrice": 8.2,
+        "lineTotal": 126.42
+      },
+      {
+        "medicineId": "MED-EYE-01",
+        "medicineName": "TearRelief",
+        "batchId": "BAT-00014",
+        "batchNumber": "B00014",
+        "quantity": 85,
+        "expiryDate": "2026-09-20",
+        "manufacturingDate": "2025-03-11",
+        "purchasePrice": 2.36,
+        "sellingPrice": 6.1,
+        "lineTotal": 200.6
+      },
+      {
+        "medicineId": "MED-RSP-03",
+        "medicineName": "Nasonex Spray",
+        "batchId": "BAT-00015",
+        "batchNumber": "B00015",
+        "quantity": 79,
+        "expiryDate": "2026-06-29",
+        "manufacturingDate": "2024-09-03",
+        "purchasePrice": 2.07,
+        "sellingPrice": 5.2,
+        "lineTotal": 163.53
+      }
+    ],
+    "totalValue": 1202.45,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2005",
+    "supplierId": "SUP-06",
+    "supplierName": "Continental Rx Distributors",
+    "date": "2026-07-05",
+    "items": [
+      {
+        "medicineId": "MED-DIG-05",
+        "medicineName": "Domperin",
+        "batchId": "BAT-00016",
+        "batchNumber": "B00016",
+        "quantity": 79,
+        "expiryDate": "2028-04-11",
+        "manufacturingDate": "2026-02-21",
+        "purchasePrice": 1.53,
+        "sellingPrice": 4.3,
+        "lineTotal": 120.87
+      },
+      {
+        "medicineId": "MED-DIG-02",
+        "medicineName": "Pepticare",
+        "batchId": "BAT-00017",
+        "batchNumber": "B00017",
+        "quantity": 30,
+        "expiryDate": "2026-08-05",
+        "manufacturingDate": "2025-02-01",
+        "purchasePrice": 1.79,
+        "sellingPrice": 4.9,
+        "lineTotal": 53.7
+      },
+      {
+        "medicineId": "MED-DIG-01",
+        "medicineName": "Omezol",
+        "batchId": "BAT-00018",
+        "batchNumber": "B00018",
+        "quantity": 100,
+        "expiryDate": "2027-03-05",
+        "manufacturingDate": "2024-10-15",
+        "purchasePrice": 2.5,
+        "sellingPrice": 6.9,
+        "lineTotal": 250.0
+      }
+    ],
+    "totalValue": 424.57,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2006",
+    "supplierId": "SUP-04",
+    "supplierName": "DermaSource Ltd.",
+    "date": "2026-04-09",
+    "items": [
+      {
+        "medicineId": "MED-FST-02",
+        "medicineName": "PovoClean",
+        "batchId": "BAT-00019",
+        "batchNumber": "B00019",
+        "quantity": 99,
+        "expiryDate": "2028-05-16",
+        "manufacturingDate": "2026-05-17",
+        "purchasePrice": 2.12,
+        "sellingPrice": 5.8,
+        "lineTotal": 209.88
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "medicineName": "BandaidCare Kit",
+        "batchId": "BAT-00020",
+        "batchNumber": "B00020",
+        "quantity": 134,
+        "expiryDate": "2027-07-17",
+        "manufacturingDate": "2025-12-03",
+        "purchasePrice": 6.0,
+        "sellingPrice": 15.0,
+        "lineTotal": 804.0
+      },
+      {
+        "medicineId": "MED-FST-01",
+        "medicineName": "BurnEase",
+        "batchId": "BAT-00021",
+        "batchNumber": "B00021",
+        "quantity": 50,
+        "expiryDate": "2028-07-07",
+        "manufacturingDate": "2026-04-05",
+        "purchasePrice": 3.8,
+        "sellingPrice": 9.5,
+        "lineTotal": 190.0
+      },
+      {
+        "medicineId": "MED-SKN-02",
+        "medicineName": "Clotrifix",
+        "batchId": "BAT-00022",
+        "batchNumber": "B00022",
+        "quantity": 96,
+        "expiryDate": "2026-10-13",
+        "manufacturingDate": "2024-05-31",
+        "purchasePrice": 2.13,
+        "sellingPrice": 5.6,
+        "lineTotal": 204.48
+      }
+    ],
+    "totalValue": 1408.36,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2007",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-05-29",
+    "items": [
+      {
+        "medicineId": "MED-PNR-02",
+        "medicineName": "Advil",
+        "batchId": "BAT-00023",
+        "batchNumber": "B00023",
+        "quantity": 139,
+        "expiryDate": "2028-03-05",
+        "manufacturingDate": "2025-10-31",
+        "purchasePrice": 1.45,
+        "sellingPrice": 4.2,
+        "lineTotal": 201.55
+      },
+      {
+        "medicineId": "MED-CCF-02",
+        "medicineName": "Fluenza Relief",
+        "batchId": "BAT-00024",
+        "batchNumber": "B00024",
+        "quantity": 71,
+        "expiryDate": "2026-09-24",
+        "manufacturingDate": "2024-06-24",
+        "purchasePrice": 1.95,
+        "sellingPrice": 5.2,
+        "lineTotal": 138.45
+      },
+      {
+        "medicineId": "MED-PNR-05",
+        "medicineName": "Voltrex Gel",
+        "batchId": "BAT-00025",
+        "batchNumber": "B00025",
+        "quantity": 80,
+        "expiryDate": "2026-10-16",
+        "manufacturingDate": "2024-11-01",
+        "purchasePrice": 3.28,
+        "sellingPrice": 8.9,
+        "lineTotal": 262.4
+      },
+      {
+        "medicineId": "MED-PNR-04",
+        "medicineName": "Naprosyn",
+        "batchId": "BAT-00026",
+        "batchNumber": "B00026",
+        "quantity": 78,
+        "expiryDate": "2026-06-18",
+        "manufacturingDate": "2024-09-06",
+        "purchasePrice": 1.92,
+        "sellingPrice": 5.6,
+        "lineTotal": 149.76
+      }
+    ],
+    "totalValue": 752.16,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2008",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-07-12",
+    "items": [
+      {
+        "medicineId": "MED-DIA-02",
+        "medicineName": "Insulglar",
+        "batchId": "BAT-00027",
+        "batchNumber": "B00027",
+        "quantity": 60,
+        "expiryDate": "2026-10-15",
+        "manufacturingDate": "2025-01-13",
+        "purchasePrice": 19.27,
+        "sellingPrice": 42.0,
+        "lineTotal": 1156.2
+      },
+      {
+        "medicineId": "MED-ABX-05",
+        "medicineName": "Flagystat",
+        "batchId": "BAT-00028",
+        "batchNumber": "B00028",
+        "quantity": 31,
+        "expiryDate": "2028-03-31",
+        "manufacturingDate": "2026-09-28",
+        "purchasePrice": 2.14,
+        "sellingPrice": 5.9,
+        "lineTotal": 66.34
+      },
+      {
+        "medicineId": "MED-ABX-04",
+        "medicineName": "Doxyline",
+        "batchId": "BAT-00029",
+        "batchNumber": "B00029",
+        "quantity": 71,
+        "expiryDate": "2027-10-25",
+        "manufacturingDate": "2025-11-12",
+        "purchasePrice": 2.8,
+        "sellingPrice": 7.4,
+        "lineTotal": 198.8
+      }
+    ],
+    "totalValue": 1421.34,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2009",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-08-26",
+    "items": [
+      {
+        "medicineId": "MED-VIT-04",
+        "medicineName": "FerroPlus",
+        "batchId": "BAT-00030",
+        "batchNumber": "B00030",
+        "quantity": 123,
+        "expiryDate": "2026-11-06",
+        "manufacturingDate": "2024-12-12",
+        "purchasePrice": 2.45,
+        "sellingPrice": 6.9,
+        "lineTotal": 301.35
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "medicineName": "Amoxi Kids",
+        "batchId": "BAT-00031",
+        "batchNumber": "B00031",
+        "quantity": 118,
+        "expiryDate": "2026-11-23",
+        "manufacturingDate": "2025-04-23",
+        "purchasePrice": 3.34,
+        "sellingPrice": 8.9,
+        "lineTotal": 394.12
+      }
+    ],
+    "totalValue": 695.47,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2010",
+    "supplierId": "SUP-05",
+    "supplierName": "PureAir Respiratory Supply",
+    "date": "2026-06-20",
+    "items": [
+      {
+        "medicineId": "MED-EYE-01",
+        "medicineName": "TearRelief",
+        "batchId": "BAT-00032",
+        "batchNumber": "B00032",
+        "quantity": 129,
+        "expiryDate": "2026-11-13",
+        "manufacturingDate": "2024-08-12",
+        "purchasePrice": 2.26,
+        "sellingPrice": 6.1,
+        "lineTotal": 291.54
+      },
+      {
+        "medicineId": "MED-RSP-03",
+        "medicineName": "Nasonex Spray",
+        "batchId": "BAT-00033",
+        "batchNumber": "B00033",
+        "quantity": 74,
+        "expiryDate": "2027-07-14",
+        "manufacturingDate": "2025-09-09",
+        "purchasePrice": 1.98,
+        "sellingPrice": 5.2,
+        "lineTotal": 146.52
+      },
+      {
+        "medicineId": "MED-EYE-02",
+        "medicineName": "Otowax Clear",
+        "batchId": "BAT-00034",
+        "batchNumber": "B00034",
+        "quantity": 135,
+        "expiryDate": "2026-09-28",
+        "manufacturingDate": "2024-10-11",
+        "purchasePrice": 2.08,
+        "sellingPrice": 5.3,
+        "lineTotal": 280.8
+      },
+      {
+        "medicineId": "MED-RSP-01",
+        "medicineName": "Singulex",
+        "batchId": "BAT-00035",
+        "batchNumber": "B00035",
+        "quantity": 71,
+        "expiryDate": "2027-09-02",
+        "manufacturingDate": "2025-10-16",
+        "purchasePrice": 3.21,
+        "sellingPrice": 8.2,
+        "lineTotal": 227.91
+      }
+    ],
+    "totalValue": 946.77,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2011",
+    "supplierId": "SUP-06",
+    "supplierName": "Continental Rx Distributors",
+    "date": "2026-04-14",
+    "items": [
+      {
+        "medicineId": "MED-DIG-05",
+        "medicineName": "Domperin",
+        "batchId": "BAT-00036",
+        "batchNumber": "B00036",
+        "quantity": 106,
+        "expiryDate": "2027-01-22",
+        "manufacturingDate": "2025-02-05",
+        "purchasePrice": 1.64,
+        "sellingPrice": 4.3,
+        "lineTotal": 173.84
+      },
+      {
+        "medicineId": "MED-DIG-04",
+        "medicineName": "Loperex",
+        "batchId": "BAT-00037",
+        "batchNumber": "B00037",
+        "quantity": 80,
+        "expiryDate": "2027-03-09",
+        "manufacturingDate": "2024-12-21",
+        "purchasePrice": 1.38,
+        "sellingPrice": 3.9,
+        "lineTotal": 110.4
+      },
+      {
+        "medicineId": "MED-DIG-02",
+        "medicineName": "Pepticare",
+        "batchId": "BAT-00038",
+        "batchNumber": "B00038",
+        "quantity": 93,
+        "expiryDate": "2027-07-27",
+        "manufacturingDate": "2025-07-30",
+        "purchasePrice": 1.74,
+        "sellingPrice": 4.9,
+        "lineTotal": 161.82
+      },
+      {
+        "medicineId": "MED-DIG-01",
+        "medicineName": "Omezol",
+        "batchId": "BAT-00039",
+        "batchNumber": "B00039",
+        "quantity": 117,
+        "expiryDate": "2028-04-04",
+        "manufacturingDate": "2025-12-13",
+        "purchasePrice": 2.47,
+        "sellingPrice": 6.9,
+        "lineTotal": 288.99
+      }
+    ],
+    "totalValue": 735.05,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2012",
+    "supplierId": "SUP-04",
+    "supplierName": "DermaSource Ltd.",
+    "date": "2026-08-12",
+    "items": [
+      {
+        "medicineId": "MED-FST-02",
+        "medicineName": "PovoClean",
+        "batchId": "BAT-00040",
+        "batchNumber": "B00040",
+        "quantity": 76,
+        "expiryDate": "2027-04-02",
+        "manufacturingDate": "2025-04-04",
+        "purchasePrice": 2.25,
+        "sellingPrice": 5.8,
+        "lineTotal": 171.0
+      },
+      {
+        "medicineId": "MED-SKN-03",
+        "medicineName": "Miconazole Plus",
+        "batchId": "BAT-00041",
+        "batchNumber": "B00041",
+        "quantity": 64,
+        "expiryDate": "2027-08-17",
+        "manufacturingDate": "2025-03-20",
+        "purchasePrice": 2.65,
+        "sellingPrice": 6.9,
+        "lineTotal": 169.6
+      },
+      {
+        "medicineId": "MED-SKN-02",
+        "medicineName": "Clotrifix",
+        "batchId": "BAT-00042",
+        "batchNumber": "B00042",
+        "quantity": 86,
+        "expiryDate": "2027-09-13",
+        "manufacturingDate": "2025-08-20",
+        "purchasePrice": 2.1,
+        "sellingPrice": 5.6,
+        "lineTotal": 180.6
+      }
+    ],
+    "totalValue": 521.2,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2013",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-04-26",
+    "items": [
+      {
+        "medicineId": "MED-PNR-02",
+        "medicineName": "Advil",
+        "batchId": "BAT-00043",
+        "batchNumber": "B00043",
+        "quantity": 100,
+        "expiryDate": "2026-10-08",
+        "manufacturingDate": "2025-03-21",
+        "purchasePrice": 1.48,
+        "sellingPrice": 4.2,
+        "lineTotal": 148.0
+      },
+      {
+        "medicineId": "MED-CCF-04",
+        "medicineName": "Bronchosol",
+        "batchId": "BAT-00044",
+        "batchNumber": "B00044",
+        "quantity": 72,
+        "expiryDate": "2028-06-17",
+        "manufacturingDate": "2026-07-31",
+        "purchasePrice": 2.18,
+        "sellingPrice": 5.6,
+        "lineTotal": 156.96
+      }
+    ],
+    "totalValue": 304.96,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2014",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-03-02",
+    "items": [
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "batchId": "BAT-00045",
+        "batchNumber": "B00045",
+        "quantity": 35,
+        "expiryDate": "2026-10-29",
+        "manufacturingDate": "2025-01-06",
+        "purchasePrice": 2.04,
+        "sellingPrice": 5.7,
+        "lineTotal": 71.4
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "batchId": "BAT-00046",
+        "batchNumber": "B00046",
+        "quantity": 71,
+        "expiryDate": "2028-07-14",
+        "manufacturingDate": "2026-06-12",
+        "purchasePrice": 2.3,
+        "sellingPrice": 6.2,
+        "lineTotal": 163.3
+      }
+    ],
+    "totalValue": 234.7,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2015",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-03-21",
+    "items": [
+      {
+        "medicineId": "MED-VIT-01",
+        "medicineName": "Multivite Daily",
+        "batchId": "BAT-00047",
+        "batchNumber": "B00047",
+        "quantity": 138,
+        "expiryDate": "2026-05-11",
+        "manufacturingDate": "2023-12-22",
+        "purchasePrice": 3.81,
+        "sellingPrice": 10.5,
+        "lineTotal": 525.78
+      },
+      {
+        "medicineId": "MED-VIT-03",
+        "medicineName": "SunD3",
+        "batchId": "BAT-00048",
+        "batchNumber": "B00048",
+        "quantity": 50,
+        "expiryDate": "2027-06-07",
+        "manufacturingDate": "2025-12-07",
+        "purchasePrice": 3.66,
+        "sellingPrice": 9.8,
+        "lineTotal": 183.0
+      }
+    ],
+    "totalValue": 708.78,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2016",
+    "supplierId": "SUP-05",
+    "supplierName": "PureAir Respiratory Supply",
+    "date": "2026-04-13",
+    "items": [
+      {
+        "medicineId": "MED-EYE-01",
+        "medicineName": "TearRelief",
+        "batchId": "BAT-00049",
+        "batchNumber": "B00049",
+        "quantity": 85,
+        "expiryDate": "2026-11-24",
+        "manufacturingDate": "2024-07-20",
+        "purchasePrice": 2.34,
+        "sellingPrice": 6.1,
+        "lineTotal": 198.9
+      },
+      {
+        "medicineId": "MED-EYE-02",
+        "medicineName": "Otowax Clear",
+        "batchId": "BAT-00050",
+        "batchNumber": "B00050",
+        "quantity": 144,
+        "expiryDate": "2026-11-14",
+        "manufacturingDate": "2024-06-12",
+        "purchasePrice": 1.95,
+        "sellingPrice": 5.3,
+        "lineTotal": 280.8
+      }
+    ],
+    "totalValue": 479.7,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2017",
+    "supplierId": "SUP-06",
+    "supplierName": "Continental Rx Distributors",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "medicineId": "MED-DIG-03",
+        "medicineName": "Gastrocalm",
+        "batchId": "BAT-00051",
+        "batchNumber": "B00051",
+        "quantity": 145,
+        "expiryDate": "2026-08-05",
+        "manufacturingDate": "2024-08-14",
+        "purchasePrice": 2.69,
+        "sellingPrice": 6.5,
+        "lineTotal": 390.05
+      },
+      {
+        "medicineId": "MED-DIG-06",
+        "medicineName": "Simeticare Drops",
+        "batchId": "BAT-00052",
+        "batchNumber": "B00052",
+        "quantity": 129,
+        "expiryDate": "2026-11-19",
+        "manufacturingDate": "2025-04-27",
+        "purchasePrice": 3.04,
+        "sellingPrice": 7.2,
+        "lineTotal": 392.16
+      }
+    ],
+    "totalValue": 782.21,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2018",
+    "supplierId": "SUP-04",
+    "supplierName": "DermaSource Ltd.",
+    "date": "2026-05-24",
+    "items": [
+      {
+        "medicineId": "MED-SKN-02",
+        "medicineName": "Clotrifix",
+        "batchId": "BAT-00053",
+        "batchNumber": "B00053",
+        "quantity": 109,
+        "expiryDate": "2027-10-11",
+        "manufacturingDate": "2026-02-11",
+        "purchasePrice": 2.18,
+        "sellingPrice": 5.6,
+        "lineTotal": 237.62
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "medicineName": "BandaidCare Kit",
+        "batchId": "BAT-00054",
+        "batchNumber": "B00054",
+        "quantity": 41,
+        "expiryDate": "2027-02-17",
+        "manufacturingDate": "2024-10-23",
+        "purchasePrice": 5.87,
+        "sellingPrice": 15.0,
+        "lineTotal": 240.67
+      },
+      {
+        "medicineId": "MED-FST-02",
+        "medicineName": "PovoClean",
+        "batchId": "BAT-00055",
+        "batchNumber": "B00055",
+        "quantity": 108,
+        "expiryDate": "2026-09-27",
+        "manufacturingDate": "2025-03-03",
+        "purchasePrice": 2.13,
+        "sellingPrice": 5.8,
+        "lineTotal": 230.04
+      }
+    ],
+    "totalValue": 708.33,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2019",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-08-15",
+    "items": [
+      {
+        "medicineId": "MED-PNR-01",
+        "medicineName": "Panadol",
+        "batchId": "BAT-00056",
+        "batchNumber": "B00056",
+        "quantity": 28,
+        "expiryDate": "2026-11-12",
+        "manufacturingDate": "2024-08-28",
+        "purchasePrice": 1.2,
+        "sellingPrice": 3.5,
+        "lineTotal": 33.6
+      }
+    ],
+    "totalValue": 33.6,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2020",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-08-12",
+    "items": [
+      {
+        "medicineId": "MED-PNR-03",
+        "medicineName": "Aspro",
+        "batchId": "BAT-00057",
+        "batchNumber": "B00057",
+        "quantity": 18,
+        "expiryDate": "2027-12-29",
+        "manufacturingDate": "2025-10-06",
+        "purchasePrice": 1.1,
+        "sellingPrice": 3.1,
+        "lineTotal": 19.8
+      }
+    ],
+    "totalValue": 19.8,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2021",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-03-19",
+    "items": [
+      {
+        "medicineId": "MED-ABX-01",
+        "medicineName": "Amoxil",
+        "batchId": "BAT-00058",
+        "batchNumber": "B00058",
+        "quantity": 47,
+        "expiryDate": "2027-03-18",
+        "manufacturingDate": "2024-12-19",
+        "purchasePrice": 2.4,
+        "sellingPrice": 6.8,
+        "lineTotal": 112.8
+      }
+    ],
+    "totalValue": 112.8,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2022",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-04-22",
+    "items": [
+      {
+        "medicineId": "MED-ABX-02",
+        "medicineName": "Zithrox",
+        "batchId": "BAT-00059",
+        "batchNumber": "B00059",
+        "quantity": 68,
+        "expiryDate": "2026-11-17",
+        "manufacturingDate": "2024-12-28",
+        "purchasePrice": 4.5,
+        "sellingPrice": 11.5,
+        "lineTotal": 306.0
+      }
+    ],
+    "totalValue": 306.0,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2023",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-05-16",
+    "items": [
+      {
+        "medicineId": "MED-PED-02",
+        "medicineName": "Fevacol Kids",
+        "batchId": "BAT-00060",
+        "batchNumber": "B00060",
+        "quantity": 23,
+        "expiryDate": "2027-08-03",
+        "manufacturingDate": "2025-04-14",
+        "purchasePrice": 2.1,
+        "sellingPrice": 5.5,
+        "lineTotal": 48.3
+      }
+    ],
+    "totalValue": 48.3,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2024",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-04-11",
+    "items": [
+      {
+        "medicineId": "MED-PED-03",
+        "medicineName": "PediORS",
+        "batchId": "BAT-00061",
+        "batchNumber": "B00061",
+        "quantity": 17,
+        "expiryDate": "2027-11-09",
+        "manufacturingDate": "2026-05-15",
+        "purchasePrice": 1.8,
+        "sellingPrice": 4.5,
+        "lineTotal": 30.6
+      }
+    ],
+    "totalValue": 30.6,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2025",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-07-02",
+    "items": [
+      {
+        "medicineId": "MED-ALG-02",
+        "medicineName": "Claritan",
+        "batchId": "BAT-00062",
+        "batchNumber": "B00062",
+        "quantity": 64,
+        "expiryDate": "2028-02-28",
+        "manufacturingDate": "2026-05-07",
+        "purchasePrice": 1.5,
+        "sellingPrice": 4.1,
+        "lineTotal": 96.0
+      }
+    ],
+    "totalValue": 96.0,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2026",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-08-30",
+    "items": [
+      {
+        "medicineId": "MED-ALG-03",
+        "medicineName": "Allegra",
+        "batchId": "BAT-00063",
+        "batchNumber": "B00063",
+        "quantity": 33,
+        "expiryDate": "2027-03-27",
+        "manufacturingDate": "2024-12-03",
+        "purchasePrice": 2.2,
+        "sellingPrice": 5.8,
+        "lineTotal": 72.6
+      }
+    ],
+    "totalValue": 72.6,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2027",
+    "supplierId": "SUP-01",
+    "supplierName": "Meridian Pharma Distribution",
+    "date": "2026-07-19",
+    "items": [
+      {
+        "medicineId": "MED-CCF-01",
+        "medicineName": "Tussigon",
+        "batchId": "BAT-00064",
+        "batchNumber": "B00064",
+        "quantity": 67,
+        "expiryDate": "2028-06-08",
+        "manufacturingDate": "2026-06-29",
+        "purchasePrice": 2.3,
+        "sellingPrice": 6.1,
+        "lineTotal": 154.1
+      }
+    ],
+    "totalValue": 154.1,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2028",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-04-12",
+    "items": [
+      {
+        "medicineId": "MED-CVD-03",
+        "medicineName": "Statinol",
+        "batchId": "BAT-00065",
+        "batchNumber": "B00065",
+        "quantity": 65,
+        "expiryDate": "2027-02-25",
+        "manufacturingDate": "2025-03-19",
+        "purchasePrice": 3.4,
+        "sellingPrice": 8.8,
+        "lineTotal": 221.0
+      }
+    ],
+    "totalValue": 221.0,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2029",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-06-13",
+    "items": [
+      {
+        "medicineId": "MED-CVD-04",
+        "medicineName": "Cardiprin",
+        "batchId": "BAT-00066",
+        "batchNumber": "B00066",
+        "quantity": 60,
+        "expiryDate": "2027-09-15",
+        "manufacturingDate": "2025-05-26",
+        "purchasePrice": 1.3,
+        "sellingPrice": 3.6,
+        "lineTotal": 78.0
+      }
+    ],
+    "totalValue": 78.0,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2030",
+    "supplierId": "SUP-02",
+    "supplierName": "BioCore Wholesale",
+    "date": "2026-07-28",
+    "items": [
+      {
+        "medicineId": "MED-DIA-01",
+        "medicineName": "Glucophage",
+        "batchId": "BAT-00067",
+        "batchNumber": "B00067",
+        "quantity": 18,
+        "expiryDate": "2027-06-13",
+        "manufacturingDate": "2025-06-13",
+        "purchasePrice": 1.9,
+        "sellingPrice": 5.1,
+        "lineTotal": 34.2
+      }
+    ],
+    "totalValue": 34.2,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2031",
+    "supplierId": "SUP-03",
+    "supplierName": "GreenLeaf Health Supply",
+    "date": "2026-07-10",
+    "items": [
+      {
+        "medicineId": "MED-VIT-06",
+        "medicineName": "ZincEssential",
+        "batchId": "BAT-00068",
+        "batchNumber": "B00068",
+        "quantity": 30,
+        "expiryDate": "2027-09-25",
+        "manufacturingDate": "2025-06-24",
+        "purchasePrice": 2.8,
+        "sellingPrice": 7.1,
+        "lineTotal": 84.0
+      }
+    ],
+    "totalValue": 84.0,
+    "status": "Received"
+  },
+  {
+    "id": "PUR-2032",
+    "supplierId": "SUP-04",
+    "supplierName": "DermaSource Ltd.",
+    "date": "2026-07-14",
+    "items": [
+      {
+        "medicineId": "MED-SKN-01",
+        "medicineName": "Hydrasoft Cream",
+        "batchId": "BAT-00069",
+        "batchNumber": "B00069",
+        "quantity": 66,
+        "expiryDate": "2028-08-18",
+        "manufacturingDate": "2026-08-26",
+        "purchasePrice": 2.4,
+        "sellingPrice": 6.3,
+        "lineTotal": 158.4
+      }
+    ],
+    "totalValue": 158.4,
+    "status": "Received"
+  }
+]

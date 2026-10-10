@@ -1,0 +1,25 @@
+{
+  "pharmacyName": "Wellspring Pharmacy",
+  "pharmacyAddress": "88 Cloverdale Plaza, Unit 3, Elmsworth, TX 75001",
+  "pharmacyPhone": "+1 (555) 318-4470",
+  "pharmacyEmail": "care@wellspringpharmacy.example",
+  "licenseNumber": "PHM-TX-22841",
+  "currency": "USD",
+  "currencySymbol": "$",
+  "currencyDecimals": 2,
+  "taxRate": 0.0625,
+  "lowStockThreshold": 20,
+  "expiryWarningDays": 90,
+  "portfolioUrl": "https://YOUR-PORTFOLIO.github.io/",
+  "logoPath": "assets/images/logo.svg",
+  "theme": {
+    "mode": "light",
+    "accent": "clinical-blue"
+  },
+  "receipt": {
+    "footerMessage": "Thank you for choosing Wellspring Pharmacy. Ask our pharmacist about any medication questions.",
+    "showLicenseNumber": true
+  },
+  "demoNotice": "This is a portfolio/demo application with fictional data. It does not provide medical advice and must not be used with real patient or medication data.",
+  "dataVersion": 1
+}

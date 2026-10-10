@@ -1,0 +1,15 @@
+[
+  { "id": "CUS-01", "name": "Walk-in Customer", "phone": "", "email": "", "address": "", "totalPurchases": 0, "isGuest": true },
+  { "id": "CUS-02", "name": "Denise Coleman", "phone": "+1 (555) 402-7710", "email": "denise.coleman@example.com", "address": "14 Birchwood Ln, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-03", "name": "Marcus Villanueva", "phone": "+1 (555) 402-7742", "email": "marcus.villanueva@example.com", "address": "88 Sagebrush Dr, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-04", "name": "Priya Subramaniam", "phone": "+1 (555) 402-7765", "email": "priya.subramaniam@example.com", "address": "5 Overlook Ct, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-05", "name": "Owen Fitzgerald", "phone": "+1 (555) 402-7798", "email": "owen.fitzgerald@example.com", "address": "230 Redbud St, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-06", "name": "Amara Osei", "phone": "+1 (555) 402-7811", "email": "amara.osei@example.com", "address": "17 Lakeview Rd, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-07", "name": "Liam Fletcher", "phone": "+1 (555) 402-7840", "email": "liam.fletcher@example.com", "address": "402 Cloverdale Ave, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-08", "name": "Sofia Marchetti", "phone": "+1 (555) 402-7871", "email": "sofia.marchetti@example.com", "address": "61 Meadowbrook Ln, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-09", "name": "Ethan Park", "phone": "+1 (555) 402-7898", "email": "ethan.park@example.com", "address": "9 Summit Ave, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-10", "name": "Grace Ibekwe", "phone": "+1 (555) 402-7915", "email": "grace.ibekwe@example.com", "address": "133 Fairview St, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-11", "name": "Nathaniel Brooks", "phone": "+1 (555) 402-7940", "email": "nathaniel.brooks@example.com", "address": "76 Depot St, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-12", "name": "Ines Salgado", "phone": "+1 (555) 402-7967", "email": "ines.salgado@example.com", "address": "29 Riverbend Dr, Elmsworth, TX", "totalPurchases": 0 },
+  { "id": "CUS-13", "name": "Harold Whitfield", "phone": "+1 (555) 402-7988", "email": "harold.whitfield@example.com", "address": "18 Pinecrest Cir, Elmsworth, TX", "totalPurchases": 0 }
+]

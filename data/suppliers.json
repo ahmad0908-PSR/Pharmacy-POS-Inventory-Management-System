@@ -1,0 +1,8 @@
+[
+  { "id": "SUP-01", "name": "Meridian Pharma Distribution", "contactPerson": "Carla Denning", "phone": "+1 (555) 610-2200", "email": "carla@meridianpharma.example", "address": "410 Industrial Blvd, Dallas, TX", "productsSupplied": "Pain Relief, Cold & Flu, Allergy" },
+  { "id": "SUP-02", "name": "BioCore Wholesale", "contactPerson": "Trevor Nakashima", "phone": "+1 (555) 610-2244", "email": "trevor@biocorewholesale.example", "address": "22 Commerce Park Dr, Fort Worth, TX", "productsSupplied": "Antibiotics, Cardiovascular, Diabetes Care" },
+  { "id": "SUP-03", "name": "GreenLeaf Health Supply", "contactPerson": "Monica Reyes", "phone": "+1 (555) 610-2288", "email": "monica@greenleafhealth.example", "address": "77 Orchard Way, Plano, TX", "productsSupplied": "Vitamins & Supplements, Pediatric Care" },
+  { "id": "SUP-04", "name": "DermaSource Ltd.", "contactPerson": "Adrian Kessler", "phone": "+1 (555) 610-2311", "email": "adrian@dermasource.example", "address": "5 Skinner Ave, Irving, TX", "productsSupplied": "Skin Care, First Aid" },
+  { "id": "SUP-05", "name": "PureAir Respiratory Supply", "contactPerson": "Fatima Haidari", "phone": "+1 (555) 610-2355", "email": "fatima@pureairsupply.example", "address": "190 Windmill Rd, Arlington, TX", "productsSupplied": "Respiratory, Eye & Ear Care" },
+  { "id": "SUP-06", "name": "Continental Rx Distributors", "contactPerson": "Henry Okoye", "phone": "+1 (555) 610-2399", "email": "henry@continentalrx.example", "address": "63 Freeport Ln, Garland, TX", "productsSupplied": "Digestive Health, Pain Relief" }
+]

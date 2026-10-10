@@ -1,0 +1,370 @@
+[
+  {
+    "id": "RX-4014",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "date": "2026-07-11",
+    "prescriber": "Dr. Farah Haidari, MD",
+    "prescriptionNumber": "RXN-202634886",
+    "medicines": [
+      {
+        "medicineId": "MED-RSP-02",
+        "medicineName": "Ventolin",
+        "genericName": "Salbutamol",
+        "dosageInstructions": "Take one tablet by mouth once daily at bedtime."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4001",
+    "customerId": "CUS-04",
+    "customerName": "Priya Subramaniam",
+    "date": "2026-07-13",
+    "prescriber": "Dr. Michael Osei, MD",
+    "prescriptionNumber": "RXN-202648520",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-05",
+        "medicineName": "Flagystat",
+        "genericName": "Metronidazole",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "medicineName": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "dosageInstructions": "Apply a thin layer to the affected area twice daily."
+      }
+    ],
+    "notes": "Patient counseled on use."
+  },
+  {
+    "id": "RX-4002",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "date": "2026-07-15",
+    "prescriber": "Dr. Farah Haidari, MD",
+    "prescriptionNumber": "RXN-202653698",
+    "medicines": [
+      {
+        "medicineId": "MED-RSP-01",
+        "medicineName": "Singulex",
+        "genericName": "Montelukast",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "medicineName": "Losardex",
+        "genericName": "Losartan",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "genericName": "Amlodipine",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4008",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "date": "2026-07-15",
+    "prescriber": "Dr. Farah Haidari, MD",
+    "prescriptionNumber": "RXN-202693667",
+    "medicines": [
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "genericName": "Amlodipine",
+        "dosageInstructions": "Take one tablet by mouth once daily at bedtime."
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "medicineName": "Losardex",
+        "genericName": "Losartan",
+        "dosageInstructions": "Apply a thin layer to the affected area twice daily."
+      },
+      {
+        "medicineId": "MED-ABX-02",
+        "medicineName": "Zithrox",
+        "genericName": "Azithromycin",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4005",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "date": "2026-08-01",
+    "prescriber": "Dr. Renee Castellano, MD",
+    "prescriptionNumber": "RXN-202686149",
+    "medicines": [
+      {
+        "medicineId": "MED-RSP-01",
+        "medicineName": "Singulex",
+        "genericName": "Montelukast",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4015",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "date": "2026-08-01",
+    "prescriber": "Dr. Bianca Novak, MD",
+    "prescriptionNumber": "RXN-202627190",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-04",
+        "medicineName": "Doxyline",
+        "genericName": "Doxycycline",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      },
+      {
+        "medicineId": "MED-ABX-02",
+        "medicineName": "Zithrox",
+        "genericName": "Azithromycin",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4009",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "date": "2026-08-06",
+    "prescriber": "Dr. Michael Osei, MD",
+    "prescriptionNumber": "RXN-202628415",
+    "medicines": [
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "genericName": "Amlodipine",
+        "dosageInstructions": "Take one tablet by mouth once daily at bedtime."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4013",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "date": "2026-08-15",
+    "prescriber": "Dr. Farah Haidari, MD",
+    "prescriptionNumber": "RXN-202675402",
+    "medicines": [
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "genericName": "Glimepiride",
+        "dosageInstructions": "Take one dose by mouth every 8 hours as needed."
+      }
+    ],
+    "notes": "Refill authorized x2."
+  },
+  {
+    "id": "RX-4006",
+    "customerId": "CUS-08",
+    "customerName": "Sofia Marchetti",
+    "date": "2026-08-19",
+    "prescriber": "Dr. Michael Osei, MD",
+    "prescriptionNumber": "RXN-202689906",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-03",
+        "medicineName": "Ciprodex",
+        "genericName": "Ciprofloxacin",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      }
+    ],
+    "notes": "Patient counseled on use."
+  },
+  {
+    "id": "RX-4016",
+    "customerId": "CUS-10",
+    "customerName": "Grace Ibekwe",
+    "date": "2026-08-27",
+    "prescriber": "Dr. Michael Osei, MD",
+    "prescriptionNumber": "RXN-202662100",
+    "medicines": [
+      {
+        "medicineId": "MED-CVD-02",
+        "medicineName": "Losardex",
+        "genericName": "Losartan",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      },
+      {
+        "medicineId": "MED-ABX-04",
+        "medicineName": "Doxyline",
+        "genericName": "Doxycycline",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      },
+      {
+        "medicineId": "MED-CVD-03",
+        "medicineName": "Statinol",
+        "genericName": "Atorvastatin",
+        "dosageInstructions": "Take one tablet by mouth once daily at bedtime."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4010",
+    "customerId": "CUS-10",
+    "customerName": "Grace Ibekwe",
+    "date": "2026-08-29",
+    "prescriber": "Dr. Bianca Novak, MD",
+    "prescriptionNumber": "RXN-202653941",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-05",
+        "medicineName": "Flagystat",
+        "genericName": "Metronidazole",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "medicineName": "Cardiozan",
+        "genericName": "Amlodipine",
+        "dosageInstructions": "Take one dose by mouth every 8 hours as needed."
+      },
+      {
+        "medicineId": "MED-RSP-01",
+        "medicineName": "Singulex",
+        "genericName": "Montelukast",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      }
+    ],
+    "notes": "Patient counseled on use."
+  },
+  {
+    "id": "RX-4012",
+    "customerId": "CUS-04",
+    "customerName": "Priya Subramaniam",
+    "date": "2026-08-29",
+    "prescriber": "Dr. Bianca Novak, MD",
+    "prescriptionNumber": "RXN-202697823",
+    "medicines": [
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "genericName": "Glimepiride",
+        "dosageInstructions": "Use as directed; follow up with prescriber in 2 weeks."
+      }
+    ],
+    "notes": "Patient counseled on use."
+  },
+  {
+    "id": "RX-4011",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "date": "2026-08-30",
+    "prescriber": "Dr. Michael Osei, MD",
+    "prescriptionNumber": "RXN-202681511",
+    "medicines": [
+      {
+        "medicineId": "MED-RSP-02",
+        "medicineName": "Ventolin",
+        "genericName": "Salbutamol",
+        "dosageInstructions": "Apply a thin layer to the affected area twice daily."
+      },
+      {
+        "medicineId": "MED-ABX-02",
+        "medicineName": "Zithrox",
+        "genericName": "Azithromycin",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      },
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "genericName": "Glimepiride",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "RX-4004",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "date": "2026-09-02",
+    "prescriber": "Dr. Bianca Novak, MD",
+    "prescriptionNumber": "RXN-202650881",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-05",
+        "medicineName": "Flagystat",
+        "genericName": "Metronidazole",
+        "dosageInstructions": "Take as directed by prescriber; do not exceed labeled dose."
+      },
+      {
+        "medicineId": "MED-DIA-02",
+        "medicineName": "Insulglar",
+        "genericName": "Insulin Glargine",
+        "dosageInstructions": "Take one dose by mouth every 8 hours as needed."
+      }
+    ],
+    "notes": "Refill authorized x2."
+  },
+  {
+    "id": "RX-4003",
+    "customerId": "CUS-05",
+    "customerName": "Owen Fitzgerald",
+    "date": "2026-09-04",
+    "prescriber": "Dr. Alan Whitcombe, MD",
+    "prescriptionNumber": "RXN-202666559",
+    "medicines": [
+      {
+        "medicineId": "MED-ABX-05",
+        "medicineName": "Flagystat",
+        "genericName": "Metronidazole",
+        "dosageInstructions": "Take one capsule by mouth once daily in the morning."
+      },
+      {
+        "medicineId": "MED-ABX-03",
+        "medicineName": "Ciprodex",
+        "genericName": "Ciprofloxacin",
+        "dosageInstructions": "Take one tablet by mouth twice daily with food."
+      }
+    ],
+    "notes": "Patient counseled on use."
+  },
+  {
+    "id": "RX-4007",
+    "customerId": "CUS-08",
+    "customerName": "Sofia Marchetti",
+    "date": "2026-09-05",
+    "prescriber": "Dr. Bianca Novak, MD",
+    "prescriptionNumber": "RXN-202693838",
+    "medicines": [
+      {
+        "medicineId": "MED-DIA-03",
+        "medicineName": "Glimestar",
+        "genericName": "Glimepiride",
+        "dosageInstructions": "Take as directed by prescriber; do not exceed labeled dose."
+      },
+      {
+        "medicineId": "MED-DIA-02",
+        "medicineName": "Insulglar",
+        "genericName": "Insulin Glargine",
+        "dosageInstructions": "Take one tablet by mouth once daily at bedtime."
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "medicineName": "Losardex",
+        "genericName": "Losartan",
+        "dosageInstructions": "Take as directed by prescriber; do not exceed labeled dose."
+      }
+    ],
+    "notes": ""
+  }
+]

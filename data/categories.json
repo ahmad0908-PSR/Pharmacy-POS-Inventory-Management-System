@@ -1,0 +1,15 @@
+[
+  { "id": "CAT-01", "name": "Pain Relief", "description": "Analgesics and anti-inflammatory medicines" },
+  { "id": "CAT-02", "name": "Antibiotics", "description": "Prescription antibacterial medicines" },
+  { "id": "CAT-03", "name": "Cold, Cough & Flu", "description": "Cold, cough and flu relief" },
+  { "id": "CAT-04", "name": "Allergy", "description": "Antihistamines and allergy relief" },
+  { "id": "CAT-05", "name": "Digestive Health", "description": "Antacids, antidiarrheals and gut health" },
+  { "id": "CAT-06", "name": "Cardiovascular", "description": "Blood pressure and cholesterol medicines" },
+  { "id": "CAT-07", "name": "Diabetes Care", "description": "Blood sugar management" },
+  { "id": "CAT-08", "name": "Vitamins & Supplements", "description": "Multivitamins and dietary supplements" },
+  { "id": "CAT-09", "name": "Skin Care", "description": "Topical creams and dermatological products" },
+  { "id": "CAT-10", "name": "Respiratory", "description": "Asthma and respiratory support" },
+  { "id": "CAT-11", "name": "First Aid", "description": "Wound care and first-aid supplies" },
+  { "id": "CAT-12", "name": "Pediatric Care", "description": "Formulations for infants and children" },
+  { "id": "CAT-13", "name": "Eye & Ear Care", "description": "Ophthalmic and otic preparations" }
+]

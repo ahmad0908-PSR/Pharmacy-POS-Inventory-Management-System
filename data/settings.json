@@ -1,0 +1,12 @@
+{
+  "nextMedicineSeq": 51,
+  "nextBatchSeq": 70,
+  "nextPurchaseSeq": 2033,
+  "nextSaleSeq": 6047,
+  "nextMovementSeq": 198,
+  "nextPrescriptionSeq": 4017,
+  "nextCustomerSeq": 14,
+  "nextSupplierSeq": 7,
+  "sidebarCollapsed": false,
+  "onboardingSeen": false
+}

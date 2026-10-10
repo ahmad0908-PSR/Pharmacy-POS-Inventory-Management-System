@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "SALE-6003",
+    "date": "2026-07-24T08:38:00",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "items": [
+      {
+        "medicineId": "MED-ABX-04",
+        "name": "Doxyline",
+        "genericName": "Doxycycline",
+        "sku": "ABX004",
+        "unitPrice": 7.4,
+        "quantity": 3,
+        "lineTotal": 22.2
+      },
+      {
+        "medicineId": "MED-CVD-03",
+        "name": "Statinol",
+        "genericName": "Atorvastatin",
+        "sku": "CVD003",
+        "unitPrice": 8.8,
+        "quantity": 3,
+        "lineTotal": 26.4
+      },
+      {
+        "medicineId": "MED-RSP-03",
+        "name": "Nasonex Spray",
+        "genericName": "Saline Nasal Spray",
+        "sku": "RSP003",
+        "unitPrice": 5.2,
+        "quantity": 2,
+        "lineTotal": 10.4
+      },
+      {
+        "medicineId": "MED-PNR-01",
+        "name": "Panadol",
+        "genericName": "Paracetamol",
+        "sku": "PNR001",
+        "unitPrice": 3.5,
+        "quantity": 2,
+        "lineTotal": 7.0
+      }
+    ],
+    "subtotal": 66.0,
+    "discount": 2,
+    "tax": 4.0,
+    "total": 68.0,
+    "paymentMethod": "Other",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6011",
+    "date": "2026-07-25T13:32:00",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "items": [
+      {
+        "medicineId": "MED-PNR-03",
+        "name": "Aspro",
+        "genericName": "Aspirin",
+        "sku": "PNR003",
+        "unitPrice": 3.1,
+        "quantity": 2,
+        "lineTotal": 6.2
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "name": "Losardex",
+        "genericName": "Losartan",
+        "sku": "CVD002",
+        "unitPrice": 6.9,
+        "quantity": 2,
+        "lineTotal": 13.8
+      },
+      {
+        "medicineId": "MED-SKN-01",
+        "name": "Hydrasoft Cream",
+        "genericName": "Hydrocortisone",
+        "sku": "SKN001",
+        "unitPrice": 6.3,
+        "quantity": 1,
+        "lineTotal": 6.3
+      }
+    ],
+    "subtotal": 26.3,
+    "discount": 1,
+    "tax": 1.58,
+    "total": 26.88,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6007",
+    "date": "2026-07-25T19:58:00",
+    "customerId": "CUS-11",
+    "customerName": "Nathaniel Brooks",
+    "items": [
+      {
+        "medicineId": "MED-CVD-03",
+        "name": "Statinol",
+        "genericName": "Atorvastatin",
+        "sku": "CVD003",
+        "unitPrice": 8.8,
+        "quantity": 1,
+        "lineTotal": 8.8
+      },
+      {
+        "medicineId": "MED-ABX-01",
+        "name": "Amoxil",
+        "genericName": "Amoxicillin",
+        "sku": "ABX001",
+        "unitPrice": 6.8,
+        "quantity": 2,
+        "lineTotal": 13.6
+      }
+    ],
+    "subtotal": 22.4,
+    "discount": 0,
+    "tax": 1.4,
+    "total": 23.8,
+    "paymentMethod": "Cash",
+    "cashReceived": 24.0,
+    "change": 0.2,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6045",
+    "date": "2026-07-27T10:36:00",
+    "customerId": "CUS-11",
+    "customerName": "Nathaniel Brooks",
+    "items": [
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 2,
+        "lineTotal": 12.4
+      },
+      {
+        "medicineId": "MED-PNR-05",
+        "name": "Voltrex Gel",
+        "genericName": "Diclofenac",
+        "sku": "PNR005",
+        "unitPrice": 8.9,
+        "quantity": 1,
+        "lineTotal": 8.9
+      },
+      {
+        "medicineId": "MED-VIT-04",
+        "name": "FerroPlus",
+        "genericName": "Iron + Folic Acid",
+        "sku": "VIT004",
+        "unitPrice": 6.9,
+        "quantity": 1,
+        "lineTotal": 6.9
+      }
+    ],
+    "subtotal": 28.2,
+    "discount": 2,
+    "tax": 1.64,
+    "total": 27.84,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6006",
+    "date": "2026-07-27T10:50:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-PNR-05",
+        "name": "Voltrex Gel",
+        "genericName": "Diclofenac",
+        "sku": "PNR005",
+        "unitPrice": 8.9,
+        "quantity": 1,
+        "lineTotal": 8.9
+      },
+      {
+        "medicineId": "MED-VIT-06",
+        "name": "ZincEssential",
+        "genericName": "Zinc Sulfate",
+        "sku": "VIT006",
+        "unitPrice": 7.1,
+        "quantity": 2,
+        "lineTotal": 14.2
+      },
+      {
+        "medicineId": "MED-CVD-03",
+        "name": "Statinol",
+        "genericName": "Atorvastatin",
+        "sku": "CVD003",
+        "unitPrice": 8.8,
+        "quantity": 3,
+        "lineTotal": 26.4
+      }
+    ],
+    "subtotal": 49.5,
+    "discount": 0,
+    "tax": 3.09,
+    "total": 52.59,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6025",
+    "date": "2026-07-28T17:19:00",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "items": [
+      {
+        "medicineId": "MED-PED-02",
+        "name": "Fevacol Kids",
+        "genericName": "Paracetamol",
+        "sku": "PED002",
+        "unitPrice": 5.5,
+        "quantity": 2,
+        "lineTotal": 11.0
+      },
+      {
+        "medicineId": "MED-ALG-01",
+        "name": "Zyrtec",
+        "genericName": "Cetirizine",
+        "sku": "ALG001",
+        "unitPrice": 4.3,
+        "quantity": 3,
+        "lineTotal": 12.9
+      },
+      {
+        "medicineId": "MED-CCF-04",
+        "name": "Bronchosol",
+        "genericName": "Guaifenesin",
+        "sku": "CCF004",
+        "unitPrice": 5.6,
+        "quantity": 1,
+        "lineTotal": 5.6
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "name": "Losardex",
+        "genericName": "Losartan",
+        "sku": "CVD002",
+        "unitPrice": 6.9,
+        "quantity": 2,
+        "lineTotal": 13.8
+      }
+    ],
+    "subtotal": 43.3,
+    "discount": 0,
+    "tax": 2.71,
+    "total": 46.01,
+    "paymentMethod": "Cash",
+    "cashReceived": 48.0,
+    "change": 1.99,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6016",
+    "date": "2026-07-29T08:26:00",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "items": [
+      {
+        "medicineId": "MED-PNR-03",
+        "name": "Aspro",
+        "genericName": "Aspirin",
+        "sku": "PNR003",
+        "unitPrice": 3.1,
+        "quantity": 1,
+        "lineTotal": 3.1
+      },
+      {
+        "medicineId": "MED-CCF-01",
+        "name": "Tussigon",
+        "genericName": "Dextromethorphan",
+        "sku": "CCF001",
+        "unitPrice": 6.1,
+        "quantity": 2,
+        "lineTotal": 12.2
+      }
+    ],
+    "subtotal": 15.3,
+    "discount": 2.29,
+    "tax": 0.81,
+    "total": 13.82,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6034",
+    "date": "2026-07-30T17:50:00",
+    "customerId": "CUS-04",
+    "customerName": "Priya Subramaniam",
+    "items": [
+      {
+        "medicineId": "MED-ALG-03",
+        "name": "Allegra",
+        "genericName": "Fexofenadine",
+        "sku": "ALG003",
+        "unitPrice": 5.8,
+        "quantity": 2,
+        "lineTotal": 11.6
+      },
+      {
+        "medicineId": "MED-CCF-03",
+        "name": "Sinutab",
+        "genericName": "Pseudoephedrine",
+        "sku": "CCF003",
+        "unitPrice": 4.6,
+        "quantity": 3,
+        "lineTotal": 13.8
+      },
+      {
+        "medicineId": "MED-ALG-01",
+        "name": "Zyrtec",
+        "genericName": "Cetirizine",
+        "sku": "ALG001",
+        "unitPrice": 4.3,
+        "quantity": 3,
+        "lineTotal": 12.9
+      }
+    ],
+    "subtotal": 38.3,
+    "discount": 2,
+    "tax": 2.27,
+    "total": 38.57,
+    "paymentMethod": "Cash",
+    "cashReceived": 39.0,
+    "change": 0.43,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6010",
+    "date": "2026-07-31T10:41:00",
+    "customerId": "CUS-10",
+    "customerName": "Grace Ibekwe",
+    "items": [
+      {
+        "medicineId": "MED-PNR-05",
+        "name": "Voltrex Gel",
+        "genericName": "Diclofenac",
+        "sku": "PNR005",
+        "unitPrice": 8.9,
+        "quantity": 2,
+        "lineTotal": 17.8
+      }
+    ],
+    "subtotal": 17.8,
+    "discount": 0,
+    "tax": 1.11,
+    "total": 18.91,
+    "paymentMethod": "Cash",
+    "cashReceived": 23.0,
+    "change": 4.09,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6037",
+    "date": "2026-07-31T20:55:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-DIG-04",
+        "name": "Loperex",
+        "genericName": "Loperamide",
+        "sku": "DIG004",
+        "unitPrice": 3.9,
+        "quantity": 3,
+        "lineTotal": 11.7
+      },
+      {
+        "medicineId": "MED-SKN-02",
+        "name": "Clotrifix",
+        "genericName": "Clotrimazole",
+        "sku": "SKN002",
+        "unitPrice": 5.6,
+        "quantity": 3,
+        "lineTotal": 16.8
+      }
+    ],
+    "subtotal": 28.5,
+    "discount": 1,
+    "tax": 1.72,
+    "total": 29.22,
+    "paymentMethod": "Cash",
+    "cashReceived": 30.0,
+    "change": 0.78,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6019",
+    "date": "2026-08-01T11:28:00",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "items": [
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 2,
+        "lineTotal": 12.4
+      }
+    ],
+    "subtotal": 12.4,
+    "discount": 1.86,
+    "tax": 0.66,
+    "total": 11.2,
+    "paymentMethod": "Cash",
+    "cashReceived": 16.0,
+    "change": 4.8,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6009",
+    "date": "2026-08-02T19:01:00",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "items": [
+      {
+        "medicineId": "MED-PED-03",
+        "name": "PediORS",
+        "genericName": "Oral Rehydration Salts",
+        "sku": "PED003",
+        "unitPrice": 4.5,
+        "quantity": 1,
+        "lineTotal": 4.5
+      },
+      {
+        "medicineId": "MED-CVD-04",
+        "name": "Cardiprin",
+        "genericName": "Low-dose Aspirin",
+        "sku": "CVD004",
+        "unitPrice": 3.6,
+        "quantity": 3,
+        "lineTotal": 10.8
+      },
+      {
+        "medicineId": "MED-SKN-03",
+        "name": "Miconazole Plus",
+        "genericName": "Miconazole",
+        "sku": "SKN003",
+        "unitPrice": 6.9,
+        "quantity": 2,
+        "lineTotal": 13.8
+      }
+    ],
+    "subtotal": 29.1,
+    "discount": 0,
+    "tax": 1.82,
+    "total": 30.92,
+    "paymentMethod": "Cash",
+    "cashReceived": 31.0,
+    "change": 0.08,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6005",
+    "date": "2026-08-03T11:51:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-RSP-02",
+        "name": "Ventolin",
+        "genericName": "Salbutamol",
+        "sku": "RSP002",
+        "unitPrice": 15.9,
+        "quantity": 2,
+        "lineTotal": 31.8
+      }
+    ],
+    "subtotal": 31.8,
+    "discount": 3,
+    "tax": 1.8,
+    "total": 30.6,
+    "paymentMethod": "Other",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6040",
+    "date": "2026-08-03T20:15:00",
+    "customerId": "CUS-06",
+    "customerName": "Amara Osei",
+    "items": [
+      {
+        "medicineId": "MED-PNR-02",
+        "name": "Advil",
+        "genericName": "Ibuprofen",
+        "sku": "PNR002",
+        "unitPrice": 4.2,
+        "quantity": 1,
+        "lineTotal": 4.2
+      },
+      {
+        "medicineId": "MED-VIT-05",
+        "name": "OmegaGold",
+        "genericName": "Omega-3 Fish Oil",
+        "sku": "VIT005",
+        "unitPrice": 13.9,
+        "quantity": 3,
+        "lineTotal": 41.7
+      }
+    ],
+    "subtotal": 45.9,
+    "discount": 2,
+    "tax": 2.74,
+    "total": 46.64,
+    "paymentMethod": "Cash",
+    "cashReceived": 48.0,
+    "change": 1.36,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6038",
+    "date": "2026-08-04T12:54:00",
+    "customerId": "CUS-09",
+    "customerName": "Ethan Park",
+    "items": [
+      {
+        "medicineId": "MED-PNR-01",
+        "name": "Panadol",
+        "genericName": "Paracetamol",
+        "sku": "PNR001",
+        "unitPrice": 3.5,
+        "quantity": 1,
+        "lineTotal": 3.5
+      },
+      {
+        "medicineId": "MED-FST-02",
+        "name": "PovoClean",
+        "genericName": "Povidone Iodine",
+        "sku": "FST002",
+        "unitPrice": 5.8,
+        "quantity": 3,
+        "lineTotal": 17.4
+      },
+      {
+        "medicineId": "MED-CCF-04",
+        "name": "Bronchosol",
+        "genericName": "Guaifenesin",
+        "sku": "CCF004",
+        "unitPrice": 5.6,
+        "quantity": 3,
+        "lineTotal": 16.8
+      },
+      {
+        "medicineId": "MED-SKN-01",
+        "name": "Hydrasoft Cream",
+        "genericName": "Hydrocortisone",
+        "sku": "SKN001",
+        "unitPrice": 6.3,
+        "quantity": 1,
+        "lineTotal": 6.3
+      }
+    ],
+    "subtotal": 44.0,
+    "discount": 3,
+    "tax": 2.56,
+    "total": 43.56,
+    "paymentMethod": "Cash",
+    "cashReceived": 44.56,
+    "change": 1.0,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6036",
+    "date": "2026-08-07T08:05:00",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "items": [
+      {
+        "medicineId": "MED-DIA-03",
+        "name": "Glimestar",
+        "genericName": "Glimepiride",
+        "sku": "DIA003",
+        "unitPrice": 5.7,
+        "quantity": 2,
+        "lineTotal": 11.4
+      }
+    ],
+    "subtotal": 11.4,
+    "discount": 1.71,
+    "tax": 0.61,
+    "total": 10.3,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6020",
+    "date": "2026-08-07T15:32:00",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "items": [
+      {
+        "medicineId": "MED-SKN-03",
+        "name": "Miconazole Plus",
+        "genericName": "Miconazole",
+        "sku": "SKN003",
+        "unitPrice": 6.9,
+        "quantity": 3,
+        "lineTotal": 20.7
+      },
+      {
+        "medicineId": "MED-EYE-01",
+        "name": "TearRelief",
+        "genericName": "Artificial Tears",
+        "sku": "EYE001",
+        "unitPrice": 6.1,
+        "quantity": 1,
+        "lineTotal": 6.1
+      }
+    ],
+    "subtotal": 26.8,
+    "discount": 0,
+    "tax": 1.68,
+    "total": 28.48,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6028",
+    "date": "2026-08-10T08:30:00",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "items": [
+      {
+        "medicineId": "MED-CVD-04",
+        "name": "Cardiprin",
+        "genericName": "Low-dose Aspirin",
+        "sku": "CVD004",
+        "unitPrice": 3.6,
+        "quantity": 3,
+        "lineTotal": 10.8
+      },
+      {
+        "medicineId": "MED-VIT-05",
+        "name": "OmegaGold",
+        "genericName": "Omega-3 Fish Oil",
+        "sku": "VIT005",
+        "unitPrice": 13.9,
+        "quantity": 3,
+        "lineTotal": 41.7
+      }
+    ],
+    "subtotal": 52.5,
+    "discount": 0,
+    "tax": 3.28,
+    "total": 55.78,
+    "paymentMethod": "Cash",
+    "cashReceived": 60.0,
+    "change": 4.22,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6017",
+    "date": "2026-08-11T13:07:00",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "items": [
+      {
+        "medicineId": "MED-FST-01",
+        "name": "BurnEase",
+        "genericName": "Silver Sulfadiazine",
+        "sku": "FST001",
+        "unitPrice": 9.5,
+        "quantity": 2,
+        "lineTotal": 19.0
+      },
+      {
+        "medicineId": "MED-VIT-06",
+        "name": "ZincEssential",
+        "genericName": "Zinc Sulfate",
+        "sku": "VIT006",
+        "unitPrice": 7.1,
+        "quantity": 3,
+        "lineTotal": 21.3
+      },
+      {
+        "medicineId": "MED-RSP-02",
+        "name": "Ventolin",
+        "genericName": "Salbutamol",
+        "sku": "RSP002",
+        "unitPrice": 15.9,
+        "quantity": 1,
+        "lineTotal": 15.9
+      },
+      {
+        "medicineId": "MED-CVD-04",
+        "name": "Cardiprin",
+        "genericName": "Low-dose Aspirin",
+        "sku": "CVD004",
+        "unitPrice": 3.6,
+        "quantity": 3,
+        "lineTotal": 10.8
+      }
+    ],
+    "subtotal": 67.0,
+    "discount": 0,
+    "tax": 4.19,
+    "total": 71.19,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6012",
+    "date": "2026-08-11T14:04:00",
+    "customerId": "CUS-04",
+    "customerName": "Priya Subramaniam",
+    "items": [
+      {
+        "medicineId": "MED-CVD-04",
+        "name": "Cardiprin",
+        "genericName": "Low-dose Aspirin",
+        "sku": "CVD004",
+        "unitPrice": 3.6,
+        "quantity": 3,
+        "lineTotal": 10.8
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "name": "BandaidCare Kit",
+        "genericName": "First Aid Kit",
+        "sku": "FST003",
+        "unitPrice": 15.0,
+        "quantity": 3,
+        "lineTotal": 45.0
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "name": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "sku": "PED001",
+        "unitPrice": 8.9,
+        "quantity": 2,
+        "lineTotal": 17.8
+      },
+      {
+        "medicineId": "MED-CCF-02",
+        "name": "Fluenza Relief",
+        "genericName": "Paracetamol + Phenylephrine",
+        "sku": "CCF002",
+        "unitPrice": 5.2,
+        "quantity": 3,
+        "lineTotal": 15.6
+      }
+    ],
+    "subtotal": 89.2,
+    "discount": 2,
+    "tax": 5.45,
+    "total": 92.65,
+    "paymentMethod": "Cash",
+    "cashReceived": 93.0,
+    "change": 0.35,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6027",
+    "date": "2026-08-12T17:18:00",
+    "customerId": "CUS-01",
+    "customerName": "Walk-in Customer",
+    "items": [
+      {
+        "medicineId": "MED-RSP-02",
+        "name": "Ventolin",
+        "genericName": "Salbutamol",
+        "sku": "RSP002",
+        "unitPrice": 15.9,
+        "quantity": 2,
+        "lineTotal": 31.8
+      },
+      {
+        "medicineId": "MED-VIT-04",
+        "name": "FerroPlus",
+        "genericName": "Iron + Folic Acid",
+        "sku": "VIT004",
+        "unitPrice": 6.9,
+        "quantity": 3,
+        "lineTotal": 20.7
+      },
+      {
+        "medicineId": "MED-DIA-02",
+        "name": "Insulglar",
+        "genericName": "Insulin Glargine",
+        "sku": "DIA002",
+        "unitPrice": 42.0,
+        "quantity": 1,
+        "lineTotal": 42.0
+      }
+    ],
+    "subtotal": 94.5,
+    "discount": 1,
+    "tax": 5.84,
+    "total": 99.34,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6030",
+    "date": "2026-08-14T11:48:00",
+    "customerId": "CUS-05",
+    "customerName": "Owen Fitzgerald",
+    "items": [
+      {
+        "medicineId": "MED-ABX-02",
+        "name": "Zithrox",
+        "genericName": "Azithromycin",
+        "sku": "ABX002",
+        "unitPrice": 11.5,
+        "quantity": 3,
+        "lineTotal": 34.5
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "name": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "sku": "PED001",
+        "unitPrice": 8.9,
+        "quantity": 3,
+        "lineTotal": 26.7
+      },
+      {
+        "medicineId": "MED-VIT-03",
+        "name": "SunD3",
+        "genericName": "Vitamin D3",
+        "sku": "VIT003",
+        "unitPrice": 9.8,
+        "quantity": 1,
+        "lineTotal": 9.8
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "name": "Losardex",
+        "genericName": "Losartan",
+        "sku": "CVD002",
+        "unitPrice": 6.9,
+        "quantity": 2,
+        "lineTotal": 13.8
+      }
+    ],
+    "subtotal": 84.8,
+    "discount": 2,
+    "tax": 5.17,
+    "total": 87.97,
+    "paymentMethod": "Cash",
+    "cashReceived": 92.0,
+    "change": 4.03,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6022",
+    "date": "2026-08-15T08:04:00",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "items": [
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 2,
+        "lineTotal": 12.4
+      },
+      {
+        "medicineId": "MED-ABX-04",
+        "name": "Doxyline",
+        "genericName": "Doxycycline",
+        "sku": "ABX004",
+        "unitPrice": 7.4,
+        "quantity": 2,
+        "lineTotal": 14.8
+      },
+      {
+        "medicineId": "MED-ABX-01",
+        "name": "Amoxil",
+        "genericName": "Amoxicillin",
+        "sku": "ABX001",
+        "unitPrice": 6.8,
+        "quantity": 3,
+        "lineTotal": 20.4
+      }
+    ],
+    "subtotal": 47.6,
+    "discount": 3,
+    "tax": 2.79,
+    "total": 47.39,
+    "paymentMethod": "Cash",
+    "cashReceived": 49.0,
+    "change": 1.61,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6035",
+    "date": "2026-08-15T13:57:00",
+    "customerId": "CUS-01",
+    "customerName": "Walk-in Customer",
+    "items": [
+      {
+        "medicineId": "MED-CVD-02",
+        "name": "Losardex",
+        "genericName": "Losartan",
+        "sku": "CVD002",
+        "unitPrice": 6.9,
+        "quantity": 1,
+        "lineTotal": 6.9
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "name": "BandaidCare Kit",
+        "genericName": "First Aid Kit",
+        "sku": "FST003",
+        "unitPrice": 15.0,
+        "quantity": 2,
+        "lineTotal": 30.0
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "name": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "sku": "PED001",
+        "unitPrice": 8.9,
+        "quantity": 2,
+        "lineTotal": 17.8
+      },
+      {
+        "medicineId": "MED-SKN-01",
+        "name": "Hydrasoft Cream",
+        "genericName": "Hydrocortisone",
+        "sku": "SKN001",
+        "unitPrice": 6.3,
+        "quantity": 2,
+        "lineTotal": 12.6
+      }
+    ],
+    "subtotal": 67.3,
+    "discount": 1,
+    "tax": 4.14,
+    "total": 70.44,
+    "paymentMethod": "Cash",
+    "cashReceived": 71.44,
+    "change": 1.0,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6018",
+    "date": "2026-08-15T16:11:00",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "items": [
+      {
+        "medicineId": "MED-PNR-05",
+        "name": "Voltrex Gel",
+        "genericName": "Diclofenac",
+        "sku": "PNR005",
+        "unitPrice": 8.9,
+        "quantity": 2,
+        "lineTotal": 17.8
+      },
+      {
+        "medicineId": "MED-PNR-02",
+        "name": "Advil",
+        "genericName": "Ibuprofen",
+        "sku": "PNR002",
+        "unitPrice": 4.2,
+        "quantity": 2,
+        "lineTotal": 8.4
+      },
+      {
+        "medicineId": "MED-PNR-04",
+        "name": "Naprosyn",
+        "genericName": "Naproxen",
+        "sku": "PNR004",
+        "unitPrice": 5.6,
+        "quantity": 3,
+        "lineTotal": 16.8
+      },
+      {
+        "medicineId": "MED-ALG-03",
+        "name": "Allegra",
+        "genericName": "Fexofenadine",
+        "sku": "ALG003",
+        "unitPrice": 5.8,
+        "quantity": 2,
+        "lineTotal": 11.6
+      }
+    ],
+    "subtotal": 54.6,
+    "discount": 3,
+    "tax": 3.23,
+    "total": 54.83,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6039",
+    "date": "2026-08-19T09:36:00",
+    "customerId": "CUS-05",
+    "customerName": "Owen Fitzgerald",
+    "items": [
+      {
+        "medicineId": "MED-DIG-06",
+        "name": "Simeticare Drops",
+        "genericName": "Simethicone",
+        "sku": "DIG006",
+        "unitPrice": 7.2,
+        "quantity": 1,
+        "lineTotal": 7.2
+      }
+    ],
+    "subtotal": 7.2,
+    "discount": 1.08,
+    "tax": 0.38,
+    "total": 6.5,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6044",
+    "date": "2026-08-19T13:05:00",
+    "customerId": "CUS-09",
+    "customerName": "Ethan Park",
+    "items": [
+      {
+        "medicineId": "MED-DIG-06",
+        "name": "Simeticare Drops",
+        "genericName": "Simethicone",
+        "sku": "DIG006",
+        "unitPrice": 7.2,
+        "quantity": 3,
+        "lineTotal": 21.6
+      },
+      {
+        "medicineId": "MED-ABX-03",
+        "name": "Ciprodex",
+        "genericName": "Ciprofloxacin",
+        "sku": "ABX003",
+        "unitPrice": 9.9,
+        "quantity": 3,
+        "lineTotal": 29.7
+      },
+      {
+        "medicineId": "MED-FST-02",
+        "name": "PovoClean",
+        "genericName": "Povidone Iodine",
+        "sku": "FST002",
+        "unitPrice": 5.8,
+        "quantity": 1,
+        "lineTotal": 5.8
+      }
+    ],
+    "subtotal": 57.1,
+    "discount": 0,
+    "tax": 3.57,
+    "total": 60.67,
+    "paymentMethod": "Cash",
+    "cashReceived": 62.0,
+    "change": 1.33,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6031",
+    "date": "2026-08-19T18:13:00",
+    "customerId": "CUS-01",
+    "customerName": "Walk-in Customer",
+    "items": [
+      {
+        "medicineId": "MED-DIG-02",
+        "name": "Pepticare",
+        "genericName": "Famotidine",
+        "sku": "DIG002",
+        "unitPrice": 4.9,
+        "quantity": 3,
+        "lineTotal": 14.7
+      },
+      {
+        "medicineId": "MED-PNR-04",
+        "name": "Naprosyn",
+        "genericName": "Naproxen",
+        "sku": "PNR004",
+        "unitPrice": 5.6,
+        "quantity": 2,
+        "lineTotal": 11.2
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 2,
+        "lineTotal": 12.4
+      }
+    ],
+    "subtotal": 38.3,
+    "discount": 0,
+    "tax": 2.39,
+    "total": 40.69,
+    "paymentMethod": "Cash",
+    "cashReceived": 42.69,
+    "change": 2.0,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6015",
+    "date": "2026-08-20T14:34:00",
+    "customerId": "CUS-01",
+    "customerName": "Walk-in Customer",
+    "items": [
+      {
+        "medicineId": "MED-PNR-02",
+        "name": "Advil",
+        "genericName": "Ibuprofen",
+        "sku": "PNR002",
+        "unitPrice": 4.2,
+        "quantity": 3,
+        "lineTotal": 12.6
+      },
+      {
+        "medicineId": "MED-VIT-06",
+        "name": "ZincEssential",
+        "genericName": "Zinc Sulfate",
+        "sku": "VIT006",
+        "unitPrice": 7.1,
+        "quantity": 1,
+        "lineTotal": 7.1
+      }
+    ],
+    "subtotal": 19.7,
+    "discount": 2.95,
+    "tax": 1.05,
+    "total": 17.8,
+    "paymentMethod": "Cash",
+    "cashReceived": 19.0,
+    "change": 1.2,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6002",
+    "date": "2026-08-20T17:33:00",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "items": [
+      {
+        "medicineId": "MED-DIG-04",
+        "name": "Loperex",
+        "genericName": "Loperamide",
+        "sku": "DIG004",
+        "unitPrice": 3.9,
+        "quantity": 3,
+        "lineTotal": 11.7
+      },
+      {
+        "medicineId": "MED-CVD-02",
+        "name": "Losardex",
+        "genericName": "Losartan",
+        "sku": "CVD002",
+        "unitPrice": 6.9,
+        "quantity": 1,
+        "lineTotal": 6.9
+      }
+    ],
+    "subtotal": 18.6,
+    "discount": 0,
+    "tax": 1.16,
+    "total": 19.76,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6023",
+    "date": "2026-08-21T15:40:00",
+    "customerId": "CUS-08",
+    "customerName": "Sofia Marchetti",
+    "items": [
+      {
+        "medicineId": "MED-VIT-06",
+        "name": "ZincEssential",
+        "genericName": "Zinc Sulfate",
+        "sku": "VIT006",
+        "unitPrice": 7.1,
+        "quantity": 3,
+        "lineTotal": 21.3
+      },
+      {
+        "medicineId": "MED-PNR-05",
+        "name": "Voltrex Gel",
+        "genericName": "Diclofenac",
+        "sku": "PNR005",
+        "unitPrice": 8.9,
+        "quantity": 1,
+        "lineTotal": 8.9
+      },
+      {
+        "medicineId": "MED-VIT-04",
+        "name": "FerroPlus",
+        "genericName": "Iron + Folic Acid",
+        "sku": "VIT004",
+        "unitPrice": 6.9,
+        "quantity": 1,
+        "lineTotal": 6.9
+      }
+    ],
+    "subtotal": 37.1,
+    "discount": 3,
+    "tax": 2.13,
+    "total": 36.23,
+    "paymentMethod": "Cash",
+    "cashReceived": 37.0,
+    "change": 0.77,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6004",
+    "date": "2026-08-22T11:21:00",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "items": [
+      {
+        "medicineId": "MED-ALG-01",
+        "name": "Zyrtec",
+        "genericName": "Cetirizine",
+        "sku": "ALG001",
+        "unitPrice": 4.3,
+        "quantity": 2,
+        "lineTotal": 8.6
+      },
+      {
+        "medicineId": "MED-VIT-02",
+        "name": "VitaC Boost",
+        "genericName": "Vitamin C",
+        "sku": "VIT002",
+        "unitPrice": 8.4,
+        "quantity": 1,
+        "lineTotal": 8.4
+      }
+    ],
+    "subtotal": 17.0,
+    "discount": 2,
+    "tax": 0.94,
+    "total": 15.94,
+    "paymentMethod": "Cash",
+    "cashReceived": 17.0,
+    "change": 1.06,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6026",
+    "date": "2026-08-24T20:20:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-CCF-04",
+        "name": "Bronchosol",
+        "genericName": "Guaifenesin",
+        "sku": "CCF004",
+        "unitPrice": 5.6,
+        "quantity": 1,
+        "lineTotal": 5.6
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 3,
+        "lineTotal": 18.6
+      },
+      {
+        "medicineId": "MED-PED-01",
+        "name": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "sku": "PED001",
+        "unitPrice": 8.9,
+        "quantity": 3,
+        "lineTotal": 26.7
+      }
+    ],
+    "subtotal": 50.9,
+    "discount": 0,
+    "tax": 3.18,
+    "total": 54.08,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6046",
+    "date": "2026-08-25T15:53:00",
+    "customerId": "CUS-09",
+    "customerName": "Ethan Park",
+    "items": [
+      {
+        "medicineId": "MED-FST-02",
+        "name": "PovoClean",
+        "genericName": "Povidone Iodine",
+        "sku": "FST002",
+        "unitPrice": 5.8,
+        "quantity": 1,
+        "lineTotal": 5.8
+      },
+      {
+        "medicineId": "MED-VIT-04",
+        "name": "FerroPlus",
+        "genericName": "Iron + Folic Acid",
+        "sku": "VIT004",
+        "unitPrice": 6.9,
+        "quantity": 3,
+        "lineTotal": 20.7
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "name": "BandaidCare Kit",
+        "genericName": "First Aid Kit",
+        "sku": "FST003",
+        "unitPrice": 15.0,
+        "quantity": 3,
+        "lineTotal": 45.0
+      }
+    ],
+    "subtotal": 71.5,
+    "discount": 0,
+    "tax": 4.47,
+    "total": 75.97,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6008",
+    "date": "2026-08-26T19:40:00",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "items": [
+      {
+        "medicineId": "MED-PNR-01",
+        "name": "Panadol",
+        "genericName": "Paracetamol",
+        "sku": "PNR001",
+        "unitPrice": 3.5,
+        "quantity": 1,
+        "lineTotal": 3.5
+      },
+      {
+        "medicineId": "MED-ABX-02",
+        "name": "Zithrox",
+        "genericName": "Azithromycin",
+        "sku": "ABX002",
+        "unitPrice": 11.5,
+        "quantity": 2,
+        "lineTotal": 23.0
+      },
+      {
+        "medicineId": "MED-CCF-02",
+        "name": "Fluenza Relief",
+        "genericName": "Paracetamol + Phenylephrine",
+        "sku": "CCF002",
+        "unitPrice": 5.2,
+        "quantity": 1,
+        "lineTotal": 5.2
+      },
+      {
+        "medicineId": "MED-ABX-04",
+        "name": "Doxyline",
+        "genericName": "Doxycycline",
+        "sku": "ABX004",
+        "unitPrice": 7.4,
+        "quantity": 3,
+        "lineTotal": 22.2
+      }
+    ],
+    "subtotal": 53.9,
+    "discount": 2,
+    "tax": 3.24,
+    "total": 55.14,
+    "paymentMethod": "Cash",
+    "cashReceived": 56.14,
+    "change": 1.0,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6013",
+    "date": "2026-08-27T20:58:00",
+    "customerId": "CUS-06",
+    "customerName": "Amara Osei",
+    "items": [
+      {
+        "medicineId": "MED-VIT-06",
+        "name": "ZincEssential",
+        "genericName": "Zinc Sulfate",
+        "sku": "VIT006",
+        "unitPrice": 7.1,
+        "quantity": 1,
+        "lineTotal": 7.1
+      },
+      {
+        "medicineId": "MED-CCF-03",
+        "name": "Sinutab",
+        "genericName": "Pseudoephedrine",
+        "sku": "CCF003",
+        "unitPrice": 4.6,
+        "quantity": 2,
+        "lineTotal": 9.2
+      },
+      {
+        "medicineId": "MED-SKN-03",
+        "name": "Miconazole Plus",
+        "genericName": "Miconazole",
+        "sku": "SKN003",
+        "unitPrice": 6.9,
+        "quantity": 2,
+        "lineTotal": 13.8
+      }
+    ],
+    "subtotal": 30.1,
+    "discount": 3,
+    "tax": 1.69,
+    "total": 28.79,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6041",
+    "date": "2026-08-28T12:33:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-PED-01",
+        "name": "Amoxi Kids",
+        "genericName": "Amoxicillin",
+        "sku": "PED001",
+        "unitPrice": 8.9,
+        "quantity": 3,
+        "lineTotal": 26.7
+      },
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 1,
+        "lineTotal": 6.2
+      },
+      {
+        "medicineId": "MED-FST-03",
+        "name": "BandaidCare Kit",
+        "genericName": "First Aid Kit",
+        "sku": "FST003",
+        "unitPrice": 15.0,
+        "quantity": 3,
+        "lineTotal": 45.0
+      }
+    ],
+    "subtotal": 77.9,
+    "discount": 0,
+    "tax": 4.87,
+    "total": 82.77,
+    "paymentMethod": "Cash",
+    "cashReceived": 83.0,
+    "change": 0.23,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6024",
+    "date": "2026-08-29T20:37:00",
+    "customerId": "CUS-03",
+    "customerName": "Marcus Villanueva",
+    "items": [
+      {
+        "medicineId": "MED-ALG-01",
+        "name": "Zyrtec",
+        "genericName": "Cetirizine",
+        "sku": "ALG001",
+        "unitPrice": 4.3,
+        "quantity": 1,
+        "lineTotal": 4.3
+      },
+      {
+        "medicineId": "MED-ABX-02",
+        "name": "Zithrox",
+        "genericName": "Azithromycin",
+        "sku": "ABX002",
+        "unitPrice": 11.5,
+        "quantity": 2,
+        "lineTotal": 23.0
+      }
+    ],
+    "subtotal": 27.3,
+    "discount": 0,
+    "tax": 1.71,
+    "total": 29.01,
+    "paymentMethod": "Other",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6021",
+    "date": "2026-08-30T15:11:00",
+    "customerId": "CUS-02",
+    "customerName": "Denise Coleman",
+    "items": [
+      {
+        "medicineId": "MED-CVD-01",
+        "name": "Cardiozan",
+        "genericName": "Amlodipine",
+        "sku": "CVD001",
+        "unitPrice": 6.2,
+        "quantity": 2,
+        "lineTotal": 12.4
+      }
+    ],
+    "subtotal": 12.4,
+    "discount": 1,
+    "tax": 0.71,
+    "total": 12.11,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6042",
+    "date": "2026-08-30T16:29:00",
+    "customerId": "CUS-12",
+    "customerName": "Ines Salgado",
+    "items": [
+      {
+        "medicineId": "MED-ABX-01",
+        "name": "Amoxil",
+        "genericName": "Amoxicillin",
+        "sku": "ABX001",
+        "unitPrice": 6.8,
+        "quantity": 1,
+        "lineTotal": 6.8
+      }
+    ],
+    "subtotal": 6.8,
+    "discount": 1.02,
+    "tax": 0.36,
+    "total": 6.14,
+    "paymentMethod": "Cash",
+    "cashReceived": 8.14,
+    "change": 2.0,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6029",
+    "date": "2026-08-30T20:45:00",
+    "customerId": "CUS-07",
+    "customerName": "Liam Fletcher",
+    "items": [
+      {
+        "medicineId": "MED-SKN-02",
+        "name": "Clotrifix",
+        "genericName": "Clotrimazole",
+        "sku": "SKN002",
+        "unitPrice": 5.6,
+        "quantity": 1,
+        "lineTotal": 5.6
+      },
+      {
+        "medicineId": "MED-CCF-01",
+        "name": "Tussigon",
+        "genericName": "Dextromethorphan",
+        "sku": "CCF001",
+        "unitPrice": 6.1,
+        "quantity": 3,
+        "lineTotal": 18.3
+      }
+    ],
+    "subtotal": 23.9,
+    "discount": 0,
+    "tax": 1.49,
+    "total": 25.39,
+    "paymentMethod": "Cash",
+    "cashReceived": 25.89,
+    "change": 0.5,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6033",
+    "date": "2026-09-01T09:00:00",
+    "customerId": "CUS-11",
+    "customerName": "Nathaniel Brooks",
+    "items": [
+      {
+        "medicineId": "MED-RSP-01",
+        "name": "Singulex",
+        "genericName": "Montelukast",
+        "sku": "RSP001",
+        "unitPrice": 8.2,
+        "quantity": 2,
+        "lineTotal": 16.4
+      },
+      {
+        "medicineId": "MED-ABX-01",
+        "name": "Amoxil",
+        "genericName": "Amoxicillin",
+        "sku": "ABX001",
+        "unitPrice": 6.8,
+        "quantity": 3,
+        "lineTotal": 20.4
+      },
+      {
+        "medicineId": "MED-PNR-02",
+        "name": "Advil",
+        "genericName": "Ibuprofen",
+        "sku": "PNR002",
+        "unitPrice": 4.2,
+        "quantity": 2,
+        "lineTotal": 8.4
+      },
+      {
+        "medicineId": "MED-ALG-01",
+        "name": "Zyrtec",
+        "genericName": "Cetirizine",
+        "sku": "ALG001",
+        "unitPrice": 4.3,
+        "quantity": 1,
+        "lineTotal": 4.3
+      }
+    ],
+    "subtotal": 49.5,
+    "discount": 0,
+    "tax": 3.09,
+    "total": 52.59,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6014",
+    "date": "2026-09-03T17:52:00",
+    "customerId": "CUS-13",
+    "customerName": "Harold Whitfield",
+    "items": [
+      {
+        "medicineId": "MED-ALG-02",
+        "name": "Claritan",
+        "genericName": "Loratadine",
+        "sku": "ALG002",
+        "unitPrice": 4.1,
+        "quantity": 2,
+        "lineTotal": 8.2
+      },
+      {
+        "medicineId": "MED-CCF-03",
+        "name": "Sinutab",
+        "genericName": "Pseudoephedrine",
+        "sku": "CCF003",
+        "unitPrice": 4.6,
+        "quantity": 3,
+        "lineTotal": 13.8
+      },
+      {
+        "medicineId": "MED-SKN-01",
+        "name": "Hydrasoft Cream",
+        "genericName": "Hydrocortisone",
+        "sku": "SKN001",
+        "unitPrice": 6.3,
+        "quantity": 1,
+        "lineTotal": 6.3
+      }
+    ],
+    "subtotal": 28.3,
+    "discount": 1,
+    "tax": 1.71,
+    "total": 29.01,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6043",
+    "date": "2026-09-05T14:46:00",
+    "customerId": "CUS-09",
+    "customerName": "Ethan Park",
+    "items": [
+      {
+        "medicineId": "MED-DIA-03",
+        "name": "Glimestar",
+        "genericName": "Glimepiride",
+        "sku": "DIA003",
+        "unitPrice": 5.7,
+        "quantity": 2,
+        "lineTotal": 11.4
+      },
+      {
+        "medicineId": "MED-DIG-04",
+        "name": "Loperex",
+        "genericName": "Loperamide",
+        "sku": "DIG004",
+        "unitPrice": 3.9,
+        "quantity": 3,
+        "lineTotal": 11.7
+      },
+      {
+        "medicineId": "MED-CCF-01",
+        "name": "Tussigon",
+        "genericName": "Dextromethorphan",
+        "sku": "CCF001",
+        "unitPrice": 6.1,
+        "quantity": 3,
+        "lineTotal": 18.3
+      }
+    ],
+    "subtotal": 41.4,
+    "discount": 2,
+    "tax": 2.46,
+    "total": 41.86,
+    "paymentMethod": "Card",
+    "cashReceived": null,
+    "change": null,
+    "status": "Completed"
+  },
+  {
+    "id": "SALE-6032",
+    "date": "2026-09-05T16:27:00",
+    "customerId": "CUS-11",
+    "customerName": "Nathaniel Brooks",
+    "items": [
+      {
+        "medicineId": "MED-CCF-03",
+        "name": "Sinutab",
+        "genericName": "Pseudoephedrine",
+        "sku": "CCF003",
+        "unitPrice": 4.6,
+        "quantity": 2,
+        "lineTotal": 9.2
+      }
+    ],
+    "subtotal": 9.2,
+    "discount": 0,
+    "tax": 0.57,
+    "total": 9.77,
+    "paymentMethod": "Cash",
+    "cashReceived": 11.77,
+    "change": 2.0,
+    "status": "Completed"
+  }
+]
