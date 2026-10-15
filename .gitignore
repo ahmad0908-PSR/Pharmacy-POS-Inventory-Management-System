@@ -14,3 +14,4 @@ npm-debug.log*
 # Local backups exported from the app
 *.backup.json
 README.md
+.claude

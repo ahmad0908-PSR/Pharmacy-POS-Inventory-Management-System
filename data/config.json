@@ -10,7 +10,7 @@
   "taxRate": 0.0625,
   "lowStockThreshold": 20,
   "expiryWarningDays": 90,
-  "portfolioUrl": "https://YOUR-PORTFOLIO.github.io/",
+  "portfolioUrl": "https://ahmad0908-psr.github.io",
   "logoPath": "assets/images/logo.svg",
   "theme": {
     "mode": "light",

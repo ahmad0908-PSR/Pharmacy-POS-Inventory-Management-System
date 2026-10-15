@@ -302,7 +302,6 @@
               <div class="field"><label for="st-lowstock">Default low-stock threshold</label><input id="st-lowstock" type="number" min="0" step="1" value="${cfg.lowStockThreshold || 20}" /></div>
               <div class="field"><label for="st-expiry">Expiry warning window (days)</label><input id="st-expiry" type="number" min="1" step="1" value="${cfg.expiryWarningDays || 90}" /></div>
             </div>
-            <div class="field"><label for="st-portfolio">Portfolio URL</label><input id="st-portfolio" value="${escapeHtml(cfg.portfolioUrl || "")}" /></div>
             <div class="field"><label for="st-receipt-footer">Receipt footer message</label><textarea id="st-receipt-footer" rows="2">${escapeHtml((cfg.receipt && cfg.receipt.footerMessage) || "")}</textarea></div>
             <button type="button" class="btn btn-primary" id="save-settings-btn">Save Settings</button>
           </form>
@@ -338,7 +337,6 @@
         taxRate: (parseFloat(val("st-tax")) || 0) / 100,
         lowStockThreshold: parseInt(val("st-lowstock"), 10) || 20,
         expiryWarningDays: parseInt(val("st-expiry"), 10) || 90,
-        portfolioUrl: val("st-portfolio"),
         receipt: Object.assign({}, cfg.receipt, { footerMessage: val("st-receipt-footer") })
       });
       Storage.saveConfig(updated);
